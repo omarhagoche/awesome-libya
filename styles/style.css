@@ -1,0 +1,105 @@
+/* Full screen bold background */
+body, html {
+  margin: 0;
+  height: 100%;
+  font-family: "Heebo", sans-serif;
+  overflow: hidden;
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Center flashy content */
+.center-content {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+}
+
+/* Holographic card effect */
+.hover-card {
+  display: inline-block;
+  padding: 50px 40px;
+  border-radius: 20px;
+  background: #ffffff;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Logo + Text */
+.hover-card .logo {
+  width: 300px;
+  margin-bottom: 0px;
+}
+
+.hover-card h1 {
+  font-size: 50px;
+  font-weight: 900;
+  letter-spacing: 4px;
+  color: #005eff;
+  margin-bottom: 40px;
+  text-shadow: 0 0 15px rgba(255,255,255,0.6),
+               0 0 30px rgba(8, 24, 252, 0.5),
+               0 0 50px rgba(132, 0, 255, 0.5);
+}
+
+/* Facebook Button */
+.fb-button {
+  display: inline-block;
+  padding: 15px 35px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  background: #4267B2;
+  border-radius: 10px;
+  text-decoration: none;
+  box-shadow: 0 0 20px rgba(8, 24, 252,0.5),
+              0 0 30px rgba(255,255,255,0.5);
+  transition: all 0.3s ease;
+}
+
+.fb-button:hover {
+  background: #365899;
+  transform: scale(1.1);
+  box-shadow: 0 0 40px rgba(8, 24, 252,0.8),
+              0 0 50px rgba(255,255,255,0.7);
+}
+
+/* Holographic effect layers */
+.hover-card:before,
+.hover-card:after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  border-radius: 20px;
+  mix-blend-mode: color-dodge;
+  pointer-events: none;
+}
+
+.hover-card:before {
+  background-image: linear-gradient(
+    115deg,
+    transparent 0%,
+    rgba(8, 83, 247, 0.8) 30%,
+    rgba(196, 196, 196, 0.8) 70%,
+    transparent 100%
+  );
+  background-size: 300% 300%;
+  opacity: 0.7;
+  z-index: 1;
+}
+
+.hover-card:after {
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/13471/sparkles.gif");
+  background-position: center;
+  background-size: 180%;
+  opacity: 0.9;
+  z-index: 2;
+}
