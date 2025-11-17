@@ -17,7 +17,7 @@
 
 - [Communities](#-communities)
 - [Tech Events & Meetups](#-tech-events--meetups)
-- [Libyan Dev Blogs & Portfolios](#-libyan-dev-blogs--portfolios-)
+- [Libyan Dev Blogs & Portfolios](#-libyan-dev-blogs--portfolios)
 - [Podcasts & YouTube Channels](#-podcasts--youtube-channels)
 - [Learning Platforms & Education Centers](#-learning-platforms--education-centers)
 - [Books](#-books)
@@ -57,7 +57,7 @@
 
 ---
 
-## 👨🏾‍💻 Libyan Dev Blogs & Portfolios 👩🏻‍💻
+## 💻 Libyan Dev Blogs & Portfolios
 
 
 | Name                | Blog                      | Focus                |
