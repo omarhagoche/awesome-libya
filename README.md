@@ -15,23 +15,19 @@
 
 ## 🧠 Contents
 
-- [Communities](#-communities)
-- [Tech Events & Meetups](#-tech-events--meetups)
-- [Libyan Dev Blogs & Portfolios](#-libyan-dev-blogs--portfolios)
-- [Podcasts & YouTube Channels](#-podcasts--youtube-channels)
-- [Learning Platforms & Education Centers](#-learning-platforms--education-centers)
-- [Books](#-books)
-- [Open Source Projects](#-open-source-projects)
-    - [JavaScript](#-javascript)
-    - [C#](#-csharp)
-    - [PHP](#-php)
-    - [Flutter](#-flutter)
-    - [CSS](#-css)
-    - [Others](#-others)
-- [Developer Resources](#-developer-resources)
-- [Companies & Startups](#-companies--startups)
-- [Government & Public APIs](#-government--public-apis)
-- [Contributing](#-contributing)
+- [🧠 Contents](#-contents)
+- [🤝 Communities](#-communities)
+- [🎉 Tech Events \& Meetups](#-tech-events--meetups)
+- [💻 Libyan Dev Blogs \& Portfolios](#-libyan-dev-blogs--portfolios)
+- [🎧 Podcasts \& YouTube Channels](#-podcasts--youtube-channels)
+- [📖 Learning Platforms \& Education Centers](#-learning-platforms--education-centers)
+- [📚 Books](#-books)
+- [💻 Open Source Projects](#-open-source-projects)
+- [📘 Developer Resources](#-developer-resources)
+- [🏢 Companies \& Startups](#-companies--startups)
+- [🧩 Government \& Public APIs](#-government--public-apis)
+- [🤝 Contributing](#-contributing)
+- [🧭 License](#-license)
 
 ---
 
@@ -122,11 +118,9 @@ Help us to make this page great ( [ClickHere](CONTRIBUTING.md) )
 - 💰 **Finance APIs**: [Central Bank (CBL)](https://central-bank-of-libya.gitbook.io/devportal) | [Plutu](https://plutu.ly/) | [T-Lync](https://tdsp.ly/)
 - 🗃 **Libya Datasets**: [World Bank Data](https://data.worldbank.org/country/libya)
 - 🤖 **Artificial Intelgence**: [HuggingFace Datasets](https://huggingface.co/datasets?search=libya)
-- ✉️ **SMS & OTP**: [Resala](https://resala.ly/) | [LibyaSMS](http://libyasms.com/) | [Rasael](https://www.rasael.ly/)
+- ✉️ **SMS & OTP**: [Resala](https://resala.ly/) | [LibyaSMS](http://libyasms.com/) | [Rasael](https://www.rasael.ly/)  | [Marsol](https://marsol.ly/)
 - ☁️ **Hosting**: [LibyanSpider](https://libyanspider.com)
 - ⚙️ **Demo APIs**: [Public APIs](https://github.com/public-apis/public-apis)
-
- 
  [(Back to top)](#-contents)
 
 ---
